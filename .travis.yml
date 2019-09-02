@@ -1,2 +1,5 @@
 language: java
-script: mvn clean install
+script: 
+- mvn clean install 
+- echo "Hello World"
+- echo $PWD
