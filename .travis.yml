@@ -3,4 +3,4 @@ script:
 - mvn clean install 
 - echo "Hello World"
 - echo $PWD
-- echo "Jenkins2"
+- echo "Jenkins3"
